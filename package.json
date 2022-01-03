@@ -1,0 +1,8 @@
+{
+  "name": "finapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Rob30Garcia/finapi.git",
+  "author": "Robert Garcia <rgs2@icomp.ufam.edu.br>",
+  "license": "MIT"
+}
