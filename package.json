@@ -4,5 +4,14 @@
   "main": "index.js",
   "repository": "git@github.com:Rob30Garcia/finapi.git",
   "author": "Robert Garcia <rgs2@icomp.ufam.edu.br>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
