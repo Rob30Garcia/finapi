@@ -10,7 +10,7 @@
 - [x] Deve ser possível atualizar dados da conta do cliente
 - [x] Deve ser possível obter uma conta
 - [x] Deve ser possível deletar uma conta
-- [] Deve ser possível obter o balance da conta
+- [x] Deve ser possível obter o balance da conta
 
 ### Regras de Negócios
 
